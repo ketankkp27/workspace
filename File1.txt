@@ -4,3 +4,16 @@ line 3 -- master
 line 4
 line 5
 line 6
+<<<<<<< HEAD
+FND-1020
+changes for FND-1020
+
+
+
+
+
+again FND-1020 changes done
+
+FND-1020changes number 01
+=======
+>>>>>>> master
