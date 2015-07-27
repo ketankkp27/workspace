@@ -1,6 +1,6 @@
 initial line
 line 2
-line 3
+line 3 -- master
 line 4
 line 5
 line 6
